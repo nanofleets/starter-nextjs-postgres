@@ -89,7 +89,7 @@ Next.js should now be running at [http://localhost:3000](http://localhost:3000)
 ```bash
 npm run docker:build
 npm run docker:push
-npm run noa:deploy-next
+npm run noa:deploy
 ```
 
 ## Database Commands
